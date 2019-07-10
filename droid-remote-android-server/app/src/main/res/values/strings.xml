@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DroidRemote</string>
+    <string name="title_activity_main">DroidRemote Server</string>
+</resources>
